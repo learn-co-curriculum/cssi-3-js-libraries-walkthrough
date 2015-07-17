@@ -88,7 +88,7 @@ Using libraries means that we can focus on our application, rather than reinvent
 
 There are tons of javascript libraries. A good place to find some of the more popular ones is [https://www.javascripting.com/](https://www.javascripting.com/). Today, we’ll practice using jQuery, so you can practice the workflow for using a library. In short, the steps are:
 1. Find a library you want to use.
-2. Include it with a <script> tag
+2. Include it with a `<script>` tag
 3. Search the documentation for the function you need
 4. Try it out
 5. Repeat!
