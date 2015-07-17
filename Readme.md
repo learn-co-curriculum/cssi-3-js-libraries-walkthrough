@@ -87,6 +87,7 @@ We can look up the Sizzle.getText method, and see that it's just javascript. If 
 Using libraries means that we can focus on our application, rather than reinventing the wheel. If there is something complicated that you want to do, and you think that other people needed to do it on their sites, there is probably a library with functions to help you.
 
 There are tons of javascript libraries. A good place to find some of the more popular ones is [https://www.javascripting.com/](https://www.javascripting.com/). Today, we’ll practice using jQuery, so you can practice the workflow for using a library. In short, the steps are:
+
 1. Find a library you want to use.
 2. Include it with a `<script>` tag
 3. Search the documentation for the function you need
